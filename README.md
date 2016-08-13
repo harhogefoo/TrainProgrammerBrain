@@ -3,7 +3,7 @@
 ## Date
 2016-08-12
 ## Doc
-URL: [http://www.slideshare.net/MasatakaShinohara/vol1-64463899](http://www.slideshare.net/MasatakaShinohara/vol1-64463899)
+[プログラマ脳を鍛える会 vol.3](http://www.slideshare.net/MasatakaShinohara/vol1-64463899)
 ## Answer(Ruby)
 Normal:  [q03_normal.rb](q03/q03_normal.rb)    
 Advance: None
@@ -16,8 +16,8 @@ Advance: [q03_advance.js](q03/q03_advance.js)
 ## Date
 2016-08-04
 ## Doc
-URL: [プログラマ脳を鍛える会 vol.2α](http://www.slideshare.net/MasatakaShinohara/vol2-q02)  
-URL: [プログラマ脳を鍛える会 vol.2β](http://www.slideshare.net/MasatakaShinohara/vol2-q07)
+[プログラマ脳を鍛える会 vol.2α](http://www.slideshare.net/MasatakaShinohara/vol2-q02)  
+[プログラマ脳を鍛える会 vol.2β](http://www.slideshare.net/MasatakaShinohara/vol2-q07)
 ## Answer(Ruby)
 Normal:  [q02_normal.rb](q02/q02_normal.rb)  
 Advance: [q02_advance.rb](q02/q02_advance.rb)  
@@ -34,7 +34,7 @@ Advance: None
 ## Date
 2016-07-28
 ## Doc
-URL: [プログラマ脳を鍛える会 vol.1](http://www.slideshare.net/MasatakaShinohara/vol1-64463899)
+[プログラマ脳を鍛える会 vol.1](http://www.slideshare.net/MasatakaShinohara/vol1-64463899)
 ## Answer(Ruby)
 Normal:  None  
 Advance: [q01_advance.rb](q01/q01_advance.rb)  
