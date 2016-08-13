@@ -2,18 +2,18 @@
 ---
 
 ## プログラマ脳を鍛える会 vol.1
-### 日時
+### Date
 2016-07-28
 
-### 資料
+### Doc
 URL: [http://www.slideshare.net/MasatakaShinohara/vol1-64463899](http://www.slideshare.net/MasatakaShinohara/vol1-64463899)
  
-### 解答
+### Ans(Ruby)
 #### Ruby
 Normal:  None  
 Advance: [q01_advance.rb](q01/q01_advance.rb)  
   
-#### JavaScript
+#### Ans(JavaScript)
 Normal:  None  
 Advance: [q01_advance.js](q01/q01_advance.js)
 
