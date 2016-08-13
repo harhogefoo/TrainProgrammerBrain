@@ -3,7 +3,7 @@
 ## Date
 2016-08-12
 ## Doc
-[プログラマ脳を鍛える会 vol.3](http://www.slideshare.net/MasatakaShinohara/vol1-64463899)
+[プログラマ脳を鍛える会 vol.3](http://www.slideshare.net/secret/Mz9t2pMxKh2Z7E)
 ## Answer(Ruby)
 Normal:  [q03_normal.rb](q03/q03_normal.rb)    
 Advance: None
