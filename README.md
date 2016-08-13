@@ -8,12 +8,11 @@
 ### Doc
 URL: [http://www.slideshare.net/MasatakaShinohara/vol1-64463899](http://www.slideshare.net/MasatakaShinohara/vol1-64463899)
  
-### Ans(Ruby)
-#### Ruby
+### Answer(Ruby)
 Normal:  None  
 Advance: [q01_advance.rb](q01/q01_advance.rb)  
   
-#### Ans(JavaScript)
+### Answer(JavaScript)
 Normal:  None  
 Advance: [q01_advance.js](q01/q01_advance.js)
 
