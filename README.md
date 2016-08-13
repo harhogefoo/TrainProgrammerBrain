@@ -19,13 +19,13 @@ Advance: [q03_advance.js](q03/q03_advance.js)
 URL: [http://www.slideshare.net/MasatakaShinohara/vol1-64463899](http://www.slideshare.net/MasatakaShinohara/vol1-64463899)
 ## Answer(Ruby)
 Normal:  [q02_normal.rb](q02/q02_normal.rb)  
-Advance: [q02_advance.rb](q02/q02_advance.rb)
-Normal:  [q07_normal.rb](q07/q07_normal.rb)
+Advance: [q02_advance.rb](q02/q02_advance.rb)  
+Normal:  [q07_normal.rb](q07/q07_normal.rb)  
 Advance: [q07_advance.rb](q07/q07_advance.rb)
 ## Answer(JavaScript)
 Normal:  None  
-Advance: [q02_advance.js](q02/q02_advance.js)
-Normal:  [q07_normal.js](q07/q07_normal.js)
+Advance: [q02_advance.js](q02/q02_advance.js)  
+Normal:  [q07_normal.js](q07/q07_normal.js)  
 Advance: None
 
 ---
