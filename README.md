@@ -7,7 +7,7 @@
 Normal:  [q04_normal.rb](q04/q04_normal.rb)    
 Advance: [q04_advance.rb](q04/q04_advance.rb)    
 ## Answer(JavaScript)
-Normal:  None
+Normal:  None  
 Advance: None
 
 ---
