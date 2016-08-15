@@ -2,7 +2,7 @@
 ## Date
 2016-08-15
 ## Doc
-[プログラマ脳を鍛える会 vol.4](http://www.slideshare.net/secret/Mz9t2pMxKh2Z7E)
+[プログラマ脳を鍛える会 vol.4](https://www.slideshare.net/secret/kLefzl0BH7vBMv)
 ## Answer(Ruby)
 Normal:  [q04_normal.rb](q04/q04_normal.rb)    
 Advance: [q04_advance.rb](q04/q04_advance.rb)    
