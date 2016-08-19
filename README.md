@@ -4,10 +4,10 @@
 ## Doc
 [プログラマ脳を鍛える会 vol.5](https://www.slideshare.net/secret/kLefzl0BH7vBMv)
 ## Answer(Ruby)
-Normal:  [q04_normal.rb](q04/q04_normal.rb)    
-Advance: [q04_advance.rb](q04/q04_advance.rb)    
+Normal:  [q05_normal.rb](q05/q05_normal.rb)    
+Advance: [q05_advance.rb](q05/q05_advance.rb)    
 ## Answer(JavaScript)
-Normal:  None  
+Normal:  [q05_normal.js](q05/q05_normal.js)
 Advance: None
 
 ---
