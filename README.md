@@ -2,7 +2,7 @@
 ## Date
 2016-08-19
 ## Doc
-[プログラマ脳を鍛える会 vol.5](https://www.slideshare.net/secret/kLefzl0BH7vBMv)
+[プログラマ脳を鍛える会 vol.5](http://www.slideshare.net/KimuraDaiki/q5-65160918)
 ## Answer(Ruby)
 Normal:  [q05_shino.rb](q05/q05_shino.rb)    
 Advance: [q05_advance.rb](q05/q05_advance.rb)    
