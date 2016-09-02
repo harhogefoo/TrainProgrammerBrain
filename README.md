@@ -1,3 +1,12 @@
+# プログラマ脳を鍛える会 vol.7
+## Date
+2016-09-02
+## Doc
+[プログラマ脳を鍛える会 vol.6](http://www.slideshare.net/MasatoHommaru/vol6-65432814)
+## Answer(Ruby)
+Normal:  [q06_normal.rb](q06/q06_normal.rb)       
+## Answer(JavaScript)
+Normal: None
 # プログラマ脳を鍛える会 vol.6
 ## Date
 2016-08-26
