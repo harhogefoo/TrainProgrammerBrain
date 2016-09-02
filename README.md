@@ -2,7 +2,7 @@
 ## Date
 2016-09-02
 ## Doc
-[プログラマ脳を鍛える会 vol.7](http://www.slideshare.net/MasatoHommaru/vol6-65432814)
+[プログラマ脳を鍛える会 vol.7](http://www.slideshare.net/ishiiyuya/vol7-65626656)
 ## Answer(Ruby)
 Normal:  [q08.rb](q08/q08.rb)       
 ## Answer(JavaScript)
