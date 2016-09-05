@@ -1,6 +1,6 @@
 # プログラマ脳を鍛える会 vol.8
 ## Date
-2016-09-02
+2016-09-09
 ## Doc
 [プログラマ脳を鍛える会 vol.8](http://www.slideshare.net/MasatakaShinohara/vol8-65688071)
 ## Answer(Ruby)
