@@ -1,3 +1,14 @@
+# プログラマ脳を鍛える会 vol.8
+## Date
+2016-09-02
+## Doc
+[プログラマ脳を鍛える会 vol.8](http://www.slideshare.net/MasatakaShinohara/vol8-65688071)
+## Answer(Ruby)
+Normal:  None
+## Answer(JavaScript)
+Normal: None
+
+---
 # プログラマ脳を鍛える会 vol.7
 ## Date
 2016-09-02
@@ -7,6 +18,8 @@
 Normal:  [q08.rb](q08/q08.rb)       
 ## Answer(JavaScript)
 Normal: None
+
+---
 # プログラマ脳を鍛える会 vol.6
 ## Date
 2016-08-26
