@@ -4,9 +4,9 @@
 ## Doc
 [プログラマ脳を鍛える会 vol.8](http://www.slideshare.net/MasatakaShinohara/vol8-65688071)
 ## Answer(Ruby)
-Normal:  None
+[q09.rb](q09/q09_answer.rb)
 ## Answer(JavaScript)
-Normal: None
+[q09.js](q09/q09.js)
 
 ---
 # プログラマ脳を鍛える会 vol.7
