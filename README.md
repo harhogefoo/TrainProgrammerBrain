@@ -2,7 +2,7 @@
 ## Date
 2016-09-16
 ## Doc
-[プログラマ脳を鍛える会 vol.9]()
+[プログラマ脳を鍛える会 vol.9](https://www.slideshare.net/secret/D07oS5OWCCchVR)
 ## Answer(Ruby)
 Normal  :   [q10_normal.rb](q10/q10_normal.rb)
 Advance :   [q10_advance.rb](q10/q10_advance.rb)
