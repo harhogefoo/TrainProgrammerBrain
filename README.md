@@ -1,3 +1,16 @@
+# プログラマ脳を鍛える会 vol.9
+## Date
+2016-09-16
+## Doc
+[プログラマ脳を鍛える会 vol.9]()
+## Answer(Ruby)
+Normal  :   [q10_normal.rb](q10/q10_normal.rb)
+Advance :   [q10_advance.rb](q10/q10_advance.rb)
+## Answer(JavaScript)
+Normal  :   [q10_normal.js](q10/q10_normal.js)
+Advance :   [q10_advance.js](q10/q10_advance.js)
+
+---
 # プログラマ脳を鍛える会 vol.8
 ## Date
 2016-09-09
