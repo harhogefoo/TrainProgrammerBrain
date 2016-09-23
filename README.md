@@ -1,3 +1,17 @@
+---
+# プログラマ脳を鍛える会 vol.10
+## Date
+2016-09-23
+## Doc
+[プログラマ脳を鍛える会 vol.10](https://www.slideshare.net/secret/lVxB4QPz3eIk4n)
+## Answer(Ruby)
+Normal  :   [q11_normal.rb](q11/q11_normal.rb)
+Advance :   [q11_advance.rb](q11/q11_advance.rb)
+## Answer(JavaScript)
+Normal  :   [q11_normal.js](q11/q11_normal.js)
+Advance :   [q11_advance.js](q11/q11_advance.js)
+
+---
 # プログラマ脳を鍛える会 vol.9
 ## Date
 2016-09-16
