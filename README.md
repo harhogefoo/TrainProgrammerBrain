@@ -3,7 +3,7 @@
 ## Date
 2016-09-30
 ## Doc
-[プログラマ脳を鍛える会 vol.12]
+[プログラマ脳を鍛える会 vol.12](http://www.slideshare.net/KimuraDaiki/q12-66582397)
 ## Answer(Ruby)
 Normal  :   [q12_normal.rb](q12/q12_normal.rb)
 Advance :   [q12_advance.rb]
