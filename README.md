@@ -1,4 +1,17 @@
 ---
+# プログラマ脳を鍛える会 vol.12
+## Date
+2016-09-30
+## Doc
+[プログラマ脳を鍛える会 vol.12]
+## Answer(Ruby)
+Normal  :   [q12_normal.rb](q12/q12_normal.rb)
+Advance :   [q12_advance.rb]
+## Answer(JavaScript)
+Normal  :   [q12_normal.js](q12/q12_normal.js)
+Advance :   [q12_advance.js]
+
+---
 # プログラマ脳を鍛える会 vol.10
 ## Date
 2016-09-23
