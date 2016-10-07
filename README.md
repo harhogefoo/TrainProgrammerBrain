@@ -1,9 +1,25 @@
 ---
 # プログラマ脳を鍛える会 vol.12
 ## Date
+2016-10-07
+## Doc
+[プログラマ脳を鍛える会 vol.12](http://www.slideshare.net/MasatoHommaru/q13-66845072)
+## Answer(Ruby)
+Normal  :   [q13_normal.rb](q13/q13_normal.rb)
+Advance1(汎用化) :   [q13_advance1.rb](q13/q13_advance1.rb)
+Advance2(実行速度) :   [q13_advance2.rb](q13/q13_advance2.rb)
+## Answer(JavaScript)
+Normal  :   [q13_normal.js](q13/q13_normal.js)
+Normal2  :   [q13_normal2.js](q13/q13_normal2.js)
+Advance1(汎用化) :   [q13_advance1.js](q13/q13_advance1.js)
+Advance2(実行速度) :   [q13_advance2.js](q13/q13_advance2.js)
+
+---
+# プログラマ脳を鍛える会 vol.11
+## Date
 2016-09-30
 ## Doc
-[プログラマ脳を鍛える会 vol.12](http://www.slideshare.net/KimuraDaiki/q12-66582397)
+[プログラマ脳を鍛える会 vol.11](http://www.slideshare.net/KimuraDaiki/q12-66582397)
 ## Answer(Ruby)
 Normal  :   [q12_normal.rb](q12/q12_normal.rb)
 Advance :   [q12_advance.rb]
