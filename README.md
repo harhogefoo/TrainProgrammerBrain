@@ -3,7 +3,7 @@
 ## Date
 2016-10-07
 ## Doc
-[プログラマ脳を鍛える会 vol.12](http://www.slideshare.net/MasatoHommaru/q13-66845072)
+[プログラマ脳を鍛える会 vol.12](http://www.slideshare.net/MasatoHommaru/q13-66853594)
 ## Answer(Ruby)
 Normal  :   [q13_normal.rb](q13/q13_normal.rb)
 Advance1(汎用化) :   [q13_advance1.rb](q13/q13_advance1.rb)
