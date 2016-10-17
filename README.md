@@ -1,18 +1,31 @@
 ---
+# プログラマ脳を鍛える会 vol.15
+## Date
+2016-10-21
+## Doc
+[プログラマ脳を鍛える会 vol.15]()  
+## Answer(Ruby)
+Normal  :   [q14_normal.rb](q14/q14_normal.rb)  
+Advance(メモ化) :   [q13_advance1.rb](q14/q14_quick_memo.rb)  
+
+## Answer(JavaScript)
+Advance(メモ化)  :   [q13_quick_memo.js](q14/q14_quick_memol.js)  
+
+---
 # プログラマ脳を鍛える会 vol.12
 ## Date
 2016-10-07
 ## Doc
-[プログラマ脳を鍛える会 vol.12](http://www.slideshare.net/MasatoHommaru/q13-66853594)
+[プログラマ脳を鍛える会 vol.12](http://www.slideshare.net/MasatoHommaru/q13-66853594)  
 ## Answer(Ruby)
-Normal  :   [q13_normal.rb](q13/q13_normal.rb)
-Advance1(汎用化) :   [q13_advance1.rb](q13/q13_advance1.rb)
-Advance2(実行速度) :   [q13_advance2.rb](q13/q13_advance2.rb)
+Normal  :   [q13_normal.rb](q13/q13_normal.rb)  
+Advance1(汎用化) :   [q13_advance1.rb](q13/q13_advance1.rb)  
+Advance2(実行速度) :   [q13_advance2.rb](q13/q13_advance2.rb)  
 ## Answer(JavaScript)
-Normal  :   [q13_normal.js](q13/q13_normal.js)
-Normal2  :   [q13_normal2.js](q13/q13_normal2.js)
-Advance1(汎用化) :   [q13_advance1.js](q13/q13_advance1.js)
-Advance2(実行速度) :   [q13_advance2.js](q13/q13_advance2.js)
+Normal  :   [q13_normal.js](q13/q13_normal.js)  
+Normal2  :   [q13_normal2.js](q13/q13_normal2.js)  
+Advance1(汎用化) :   [q13_advance1.js](q13/q13_advance1.js)  
+Advance2(実行速度) :   [q13_advance2.js](q13/q13_advance2.js)  
 
 ---
 # プログラマ脳を鍛える会 vol.11
