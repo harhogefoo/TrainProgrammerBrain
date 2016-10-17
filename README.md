@@ -17,7 +17,7 @@ Advance(メモ化)  :   [q15_quick_memo.js](q15/q15_quick_memo.js)
 ## Date
 2016-10-14
 ## Doc
-[プログラマ脳を鍛える会 vol.13]()  
+[プログラマ脳を鍛える会 vol.13](http://www.slideshare.net/ishiiyuya/q14-67316424)  
 ## Answer(Ruby)
 Answer1 : [q14_normal_1.rb](q14/q14_normal_1.rb)  
 Answer2 : [q14_normal_2.rb](q14/q14_normal_2.rb)
