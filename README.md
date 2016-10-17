@@ -1,3 +1,4 @@
+
 ---
 # プログラマ脳を鍛える会 vol.14
 ## Date
@@ -16,7 +17,10 @@ Advance(メモ化)  :   [q15_quick_memo.js](q15/q15_quick_memo.js)
 ## Date
 2016-10-14
 ## Doc
+[プログラマ脳を鍛える会 vol.13]()  
 ## Answer(Ruby)
+Answer1 : [q14_normal_1.rb](q14/q14_normal_1.rb)  
+Answer2 : q14_normal_2.rb](q14/q14_normal_2.rb)  
 ## Answer(JavaScript)
 
 ---
@@ -28,7 +32,7 @@ Advance(メモ化)  :   [q15_quick_memo.js](q15/q15_quick_memo.js)
 ## Answer(Ruby)
 Normal  :   [q13_normal.rb](q13/q13_normal.rb)  
 Advance1(汎用化) :   [q13_advance1.rb](q13/q13_advance1.rb)  
-Advance2(実行速度) :   [q13_advance2.rb](q13/q13_advance2.rb)  
+Advance2(実行速度) :   [q13_advance2.rb](q13/q13_advance2.rb)
 ## Answer(JavaScript)
 Normal  :   [q13_normal.js](q13/q13_normal.js)  
 Normal2  :   [q13_normal2.js](q13/q13_normal2.js)  
