@@ -1,15 +1,23 @@
 ---
-# プログラマ脳を鍛える会 vol.15
+# プログラマ脳を鍛える会 vol.14
 ## Date
 2016-10-21
 ## Doc
-[プログラマ脳を鍛える会 vol.15]()  
+[プログラマ脳を鍛える会 vol.14]()  
 ## Answer(Ruby)
-Normal  :   [q14_normal.rb](q14/q14_normal.rb)  
-Advance(メモ化) :   [q14_advance1.rb](q14/q14_quick_memo.rb)  
+Normal  :   [q15_normal.rb](q15/q15_normal.rb)  
+Advance(メモ化) :   [q15_advance1.rb](q15/q15_quick_memo.rb)  
 
 ## Answer(JavaScript)
-Advance(メモ化)  :   [q14_quick_memo.js](q14/q14_quick_memo.js)  
+Advance(メモ化)  :   [q15_quick_memo.js](q15/q15_quick_memo.js)  
+
+---
+# プログラマ脳を鍛える会 vol.13
+## Date
+2016-10-14
+## Doc
+## Answer(Ruby)
+## Answer(JavaScript)
 
 ---
 # プログラマ脳を鍛える会 vol.12
