@@ -20,7 +20,7 @@ Advance(メモ化)  :   [q15_quick_memo.js](q15/q15_quick_memo.js)
 [プログラマ脳を鍛える会 vol.13]()  
 ## Answer(Ruby)
 Answer1 : [q14_normal_1.rb](q14/q14_normal_1.rb)  
-Answer2 : q14_normal_2.rb](q14/q14_normal_2.rb)  
+Answer2 : [q14_normal_2.rb](q14/q14_normal_2.rb)
 ## Answer(JavaScript)
 
 ---
