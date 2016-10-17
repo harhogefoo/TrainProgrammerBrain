@@ -6,7 +6,7 @@
 [プログラマ脳を鍛える会 vol.14]()  
 ## Answer(Ruby)
 Normal  :   [q15_normal.rb](q15/q15_normal.rb)  
-Advance(メモ化) :   [q15_advance1.rb](q15/q15_quick_memo.rb)  
+Advance(メモ化) :   [q15_advance.rb](q15/q15_quick_memo.rb)  
 
 ## Answer(JavaScript)
 Advance(メモ化)  :   [q15_quick_memo.js](q15/q15_quick_memo.js)  
