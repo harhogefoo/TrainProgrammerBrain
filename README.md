@@ -4,7 +4,7 @@
 ## Date
 2016-10-21
 ## Doc
-[プログラマ脳を鍛える会 vol.14]()  
+[プログラマ脳を鍛える会 vol.14](http://www.slideshare.net/MasatakaShinohara/vol14-q15)  
 ## Answer(Ruby)
 Normal  :   [q15_normal.rb](q15/q15_normal.rb)  
 Advance(メモ化) :   [q15_advance.rb](q15/q15_quick_memo.rb)  
