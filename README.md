@@ -1,4 +1,18 @@
 ---
+# プログラマ脳を鍛える会 vol.16
+## Date
+2016-11-4
+## Doc
+[プログラマ脳を鍛える会 vol.16](https://www.slideshare.net/secret/B24pxTg1WAAqqC)  
+## Answer(Ruby)
+Question A  :   [questionA.rb](atcoder004/atcoder_004_a.rb)
+Question B  :   [questionB.rb](atcoder004/atcoder_004_b.rb)
+Question C  :   [questionC.rb](atcoder004/atcoder_004_c.rb)
+
+## Answer(JavaScript)
+nothing...sorry...
+
+---
 # プログラマ脳を鍛える会 vol.15
 ## Date
 2016-10-28
