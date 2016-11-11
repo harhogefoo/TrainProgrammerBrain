@@ -1,9 +1,9 @@
 ---
-# プログラマ脳を鍛える会 vol.15
+# プログラマ脳を鍛える会 vol.17
 ## Date
 2016-11-11
 ## Doc
-[プログラマ脳を鍛える会 vol.15](http://www.slideshare.net/KimuraDaiki/at-corder005)  
+[プログラマ脳を鍛える会 vol.17](http://www.slideshare.net/KimuraDaiki/at-corder005)  
 ## Answer(Ruby)
 nothing...sorry...
 
