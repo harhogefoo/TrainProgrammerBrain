@@ -8,9 +8,9 @@
 nothing...sorry...
 
 ## Answer(JavaScript)
-Question A  :   [questionA.js](AtCoderContest/questionA.js)
-Question B  :   [questionB.js](AtCoderContest/questionB.js)
-Question C  :   [questionC.js](AtCoderContest/questionC.js)
+Question A  :   [questionA.js](atcorder005/atcorder005_a.js)
+Question B  :   [questionB.js](atcorder005/atcorder005_b.js)
+Question C  :   [questionC.js](atcorder005/atcorder005_c.js)
 ---
 # プログラマ脳を鍛える会 vol.16
 ## Date
