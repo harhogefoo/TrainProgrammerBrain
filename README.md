@@ -1,4 +1,17 @@
 ---
+# プログラマ脳を鍛える会 vol.18
+## Date
+2016-11-25
+## Doc
+[プログラマ脳を鍛える会 vol.18](http://www.slideshare.net/MasatoHommaru/at-corder006)  
+## Answer(Ruby)
+nothing...sorry...
+
+## Answer(JavaScript)
+Question A  :   [questionA.js](atcoder006/atcoder006_a.js)
+Question B  :   [questionB.js](atcoder006/atcoder006_b.js)
+Question C  :   [questionC.js](atcoder006/atcoder006_c.js)
+---
 # プログラマ脳を鍛える会 vol.17
 ## Date
 2016-11-11
